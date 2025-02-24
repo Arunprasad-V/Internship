@@ -38,7 +38,7 @@ This project implements *Image Steganography* using Python and OpenCV, allowing 
 ## 🚀 How to Run
 1. *Clone the Repository*
    bash
-   git clone https://github.com/yourusername/image-steganography.git
+   git clone https://github.com/Arunprasad-V/Internship.git
    cd image-steganography
    
 2. *Install Dependencies*
